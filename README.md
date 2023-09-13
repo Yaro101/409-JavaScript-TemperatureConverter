@@ -6,7 +6,7 @@ Tämä on yksinkertainen lämpötilan muunninsovellus, joka on kehitetty koulupr
 
 ## Tarkista se täältä
 
-klikkaa tästä tarkistaaksesi sen selaimellasi:
+klikkaa tästä tarkistaaksesi sen selaimellasi: https://yaro101.github.io/409-JavaScript-TemperatureConverter/
 
 ## Kehittäjä
 
