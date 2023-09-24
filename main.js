@@ -22,7 +22,7 @@ document.getElementById("muunna").onclick = function(event) {
     let desimaali = document.querySelector('input[name="desimaali"]:checked').value; // hae valittu desimaalin tarkkaus ja aseta sen arvoksi 'desimaali'.
 
     let vastaus; // julistaminen 'vastaus' ('undefined')
-    let ilmoitus; // julistaminen 'ilmoitus' ('undefined')
+    let ilmoitus = ""; // alusta 'ilmoitus' tyhjäksi merkkijonoksi
 
     // absoluuttisen nollarajan julistaminen
     let absoluteZeroCelsius = -273.15;
